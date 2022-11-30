@@ -1,0 +1,67 @@
+
+body {
+    padding: 10px 50px;
+}
+
+.formdesign {
+
+    font-size: 20px;
+    font-family:'Work Sans', sans-serif;
+
+
+}
+.container{
+    display: inline block;
+    width: 900px;
+    margin: 70px auto;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    /* border: 2px solid red; */
+    text-align: center;
+    background-color: rgb(183, 237, 237);
+    box-shadow: 10px 10px 5px teal;
+    border-radius: 4px;
+}
+.formdesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.formerror {
+    color: red;
+}
+
+.but {
+    border-radius: 9px;
+    width: 150px;
+    height: 45px;
+    font-size: 25px;
+    margin: 22px 20px;
+    cursor: pointer;
+    background-color: rgb(108, 240, 252);
+}
+.but:hover{
+    background-color: aquamarine;
+    color: rgb(112, 27, 86);
+}
+
+#pass input {
+    width: 47%;
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+#cpass input {
+    width: 40%;
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+}
